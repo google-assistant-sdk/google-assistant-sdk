@@ -1,0 +1,13 @@
+{
+  "name": "google-assistant-sdk",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:google-assistant-sdk/google-assistant-sdk.git",
+  "author": "Giorgio Garasto <giorgio@garasto.it>",
+  "license": "MIT",
+  "files": [
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ]
+}
